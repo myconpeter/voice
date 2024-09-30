@@ -37,8 +37,8 @@ const CategoryLinks: React.FC = () => {
 			))}
 
 			<div className='text-white'>
-				<p>Emmanuel, IBORO SUNDAY</p>
-				<p>20/SC/CO/974</p>
+				<p>Micheal, Peter Ekanem</p>
+				<p>20/SC/CO/992</p>
 			</div>
 		</div>
 	);
